@@ -8,7 +8,7 @@ Hi there, I'm Kathleen West! [[My Website]](https://portfolio.katiegirl.net)
 
 - 🔭 I am working on C# .Net Projects
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for part-time paid gigs or VR-related open-source projects
+- 👯 I’m looking for part-time paid gigs or XR open-source projects
 - 🥅 2020 Goals: Stay Alive and Survive Covid
 - ⚡ Fun fact: I collect Pound Puppies 
 

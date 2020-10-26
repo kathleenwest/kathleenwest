@@ -2,15 +2,17 @@
 
 Hi there, I'm Kathleen West! [[My Website]](https://portfolio.katiegirl.net)
 
+<img src="https://www.katiegirl.net/images/GitHubHeadShot.jpg">
 
+## I'm a Wife, Kitty Momma, Developer, and Tech Enthusiast!
 
-## I'm a Wife, Kitty Momma, Developer, and Tech Enthusiast!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I am working on C# .Net Projects
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking for part-time paid gigs or VR-related open-source projects
+- 🥅 2020 Goals: Stay Alive and Survive Covid
+- ⚡ Fun fact: I collect Pound Puppies 
+
+<img src="https://www.katiegirl.net/images/social/poundpuppies.jpg">
 
 
 ### Connect with me:

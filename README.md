@@ -20,7 +20,7 @@ Hi there, I'm Kathleen West! [[My Website]](https://portfolio.katiegirl.net)
   <li>Programming (C#, VB, .NET, Services, Scripting, OOP, SOA)</li>
 <li>Web Development (ASP.Net, Web API, WCF, HTML, CSS, JavaScript, JQuery, IIS)</li>
 <li>Software Development Tools (Visual Studio, Unity)</li>
-<li>Cloud (Azure</li>
+<li>Cloud (Azure)</li>
 <li>VR (Virtual Reality) Development & Multiplayer Networking (Photon)</li>
 <li>Testing (FAT, SAT, Manual, Performance, Unit, Simulations)</li>
 <li>Database Modeling, Analysis, Queries, Reports, Design, and Implementation</li>
@@ -35,11 +35,11 @@ Hi there, I'm Kathleen West! [[My Website]](https://portfolio.katiegirl.net)
 <li>Distribution (DMS), Transmission (TMS), and Generation systems (GMS)</li>
 </ul>
 
-### Contact Me:
+### Contact Me
 <img src="https://i2.wp.com/portfolio.katiegirl.net/wp-content/uploads/2017/11/mailontheway.jpg?resize=200%2C181"><br> 
 Contact me <a href="https://portfolio.katiegirl.net/2017/11/07/how-to-contact-me/">here</a>. 
 
-### Network:
+### Network
 
 <img src="https://i1.wp.com/portfolio.katiegirl.net/wp-content/uploads/2019/02/linkedin.jpg?resize=150%2C150&ssl=1"><br> 
 Follow me <a href="https://www.linkedin.com/in/kathleenewest/">here</a>.

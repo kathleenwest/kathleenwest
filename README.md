@@ -2,7 +2,7 @@
 
 Hi there, I'm Kathleen West! [[My Website]](https://portfolio.katiegirl.net)
 
-<img src="https://www.katiegirl.net/images/GitHubHeadShot.jpg">
+<img src="https://www.katiegirl.net/images/GitHubHeadShot.jpg" width="200" height="230">
 
 ## I'm a Wife, Kitty Momma, Developer, and Tech Enthusiast!
 
@@ -12,7 +12,7 @@ Hi there, I'm Kathleen West! [[My Website]](https://portfolio.katiegirl.net)
 - 🥅 2020 Goals: Stay Alive and Survive Covid
 - ⚡ Fun fact: I collect Pound Puppies 
 
-<img src="https://www.katiegirl.net/images/social/poundpuppies.jpg">
+<img src="https://www.katiegirl.net/images/social/poundpuppies.jpg" width="150" height="150">
 
 ### Expertise Summary
 

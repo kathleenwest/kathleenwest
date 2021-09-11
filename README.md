@@ -6,11 +6,11 @@ Hi there, I'm Kathleen West! [[My Website]](https://portfolio.katiegirl.net)
 
 ## I'm a Wife, Kitty Momma, Developer, and Tech Enthusiast!
 
-- 🔭 I am working on C# .Net Projects
+- 🔭 I am working on C# .Net and Azure Cloud Projects
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for full-time employment, part-time paid gigs, or XR open-source projects
-- 🥅 2021 Goals: Stay Alive and Survive Covid. Find a new awesome job!
-- ⚡ Fun fact: I collect Pound Puppies 
+- 👯 I’m currently employed in an awesome job a Senior Software Engineer C# (Full Stack) !
+- 🥅 2021 Goals: Stay Alive and Survive Covid. 
+- ⚡ Fun fact: I collect Pound Puppies. Give them all to me. 
 
 <img src="https://www.katiegirl.net/images/social/poundpuppies.jpg" width="150" height="150">
 

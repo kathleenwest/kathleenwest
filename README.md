@@ -9,7 +9,7 @@ Hi there, I'm Kathleen West! [[My Website]](https://portfolio.katiegirl.net)
 - 🔭 I am working on C# .Net and Azure Cloud Projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m currently employed in an awesome job a Senior Software Engineer C# (Full Stack) !
-- 🥅 2021 Goals: Stay Alive and Survive Covid. 
+- 🥅 2022 Goals: Stay Alive and Survive Covid. 
 - ⚡ Fun fact: I collect Pound Puppies. Give them all to me. 
 
 <img src="https://www.katiegirl.net/images/social/poundpuppies.jpg" width="150" height="150">
@@ -17,13 +17,15 @@ Hi there, I'm Kathleen West! [[My Website]](https://portfolio.katiegirl.net)
 ### Expertise Summary
 
 <ul>
-  <li>Programming (C#, VB, .NET, Services, Scripting, OOP, SOA)</li>
-<li>Web Development (ASP.Net, Web API, WCF, HTML, CSS, JavaScript, JQuery, IIS)</li>
+<li>Programming (C#, VB, .NET, Services, Scripting, OOP, SOA)</li>
+<li>Web Development (ASP.Net, Web API, WCF, HTML, CSS, JavaScript, Angular, JQuery, IIS)</li>
 <li>Software Development Tools (Visual Studio, Unity)</li>
+<li>Azure DevOps, Git, Agile Scrum, ModSquad</li>
 <li>Cloud (Azure)</li>
 <li>VR (Virtual Reality) Development & Multiplayer Networking (Photon)</li>
 <li>Testing (FAT, SAT, Manual, Performance, Unit, Simulations)</li>
 <li>Database Modeling, Analysis, Queries, Reports, Design, and Implementation</li>
+<li>Microsoft SQL Server, SSMS, Azure Databases, Redgate database change control</li>
 <li>Systems Data Analysis and Modeling</li>
 <li>Technical Writing, Requirements, Design Specification, Architecture</li>
 <li>Business Analysis and Process Improvements</li>
@@ -43,8 +45,3 @@ Contact me <a href="https://portfolio.katiegirl.net/2017/11/07/how-to-contact-me
 
 <img src="https://i1.wp.com/portfolio.katiegirl.net/wp-content/uploads/2019/02/linkedin.jpg?resize=150%2C150&ssl=1"><br> 
 Follow me <a href="https://www.linkedin.com/in/kathleenewest/">here</a>.
-
-
-
-
-

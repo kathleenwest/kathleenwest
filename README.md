@@ -6,36 +6,25 @@ Hi there, I'm Kathleen West! [[My Website]](https://portfolio.katiegirl.net)
 
 ## I'm a Wife, Kitty Momma, Developer, and Tech Enthusiast!
 
-- 🔭 I am working on C# .Net and Azure Cloud Projects
+- 🔭 I am a Full-Stack Developer (C# .Net & Angular TypeScript) Microsoft Certified
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m currently employed in an awesome job a Senior Software Engineer C# (Full Stack) !
-- 🥅 2022 Goals: Stay Alive and Survive Covid. 
-- ⚡ Fun fact: I collect Pound Puppies. Give them all to me. 
+- 👯 I’m currently ~~employed~~ available for my next awesome job as a Software Engineer!
+- 🥅 2023 Goals: Pumping out 💪🏻 some Angular TypeScript demo projects for my portfolio. Maybe pursue a certification?  
+- ⚡ Fun fact: I collect Pound Puppies. Give them all to me.  
 
 <img src="https://www.katiegirl.net/images/social/poundpuppies.jpg" width="150" height="150">
 
 ### Expertise Summary
 
 <ul>
-<li>Programming (C#, VB, .NET, Services, Scripting, OOP, SOA)</li>
-<li>Web Development (ASP.Net, Web API, WCF, HTML, CSS, JavaScript, Angular, JQuery, IIS)</li>
-<li>Software Development Tools (Visual Studio, Unity)</li>
-<li>Azure DevOps, Git, Agile Scrum, ModSquad</li>
-<li>Cloud (Azure)</li>
-<li>VR (Virtual Reality) Development & Multiplayer Networking (Photon)</li>
-<li>Testing (FAT, SAT, Manual, Performance, Unit, Simulations)</li>
-<li>Database Modeling, Analysis, Queries, Reports, Design, and Implementation</li>
-<li>Microsoft SQL Server, SSMS, Azure Databases, Redgate database change control</li>
-<li>Systems Data Analysis and Modeling</li>
-<li>Technical Writing, Requirements, Design Specification, Architecture</li>
-<li>Business Analysis and Process Improvements</li>
-<li>Windows, Linux, Windows Server</li>
-<li>Trainer and Presentation Techniques</li>
-<li>Alstom Grid (GE) e-terra products, EMS, SCADA, Modeling, Databases, Systems</li>
-<li>ABB EMS, CIM modeling, Databases, Systems</li>
-<li>Network Applications: State Estimator, Contingency Analysis, and Power Flow</li>
-<li>Distribution (DMS), Transmission (TMS), and Generation systems (GMS)</li>
+<li>C# .Net Microsoft Tech Stack [Learn More](https://portfolio.katiegirl.net/techexperience/c-net-framework/)</li>
+<li>Web Applications [Learn More](https://portfolio.katiegirl.net/web-applications/)</li>
+<li>Cloud Azure [Learn More](https://portfolio.katiegirl.net/techexperience/cloud/)</li>
 </ul>
+
+### Resume
+
+My resume is available online in PDF format from this site [here](https://portfolio.katiegirl.net/resume/).
 
 ### Contact Me
 <img src="https://i2.wp.com/portfolio.katiegirl.net/wp-content/uploads/2017/11/mailontheway.jpg?resize=200%2C181"><br> 

@@ -16,11 +16,11 @@ Hi there, I'm Kathleen West! [[My Website]](https://portfolio.katiegirl.net)
 
 ### Expertise Summary
 
-<ul>
-<li>C# .Net Microsoft Tech Stack [Learn More](https://portfolio.katiegirl.net/techexperience/c-net-framework/)</li>
-<li>Web Applications [Learn More](https://portfolio.katiegirl.net/web-applications/)</li>
-<li>Cloud Azure [Learn More](https://portfolio.katiegirl.net/techexperience/cloud/)</li>
-</ul>
+C# .Net Microsoft Tech Stack [Learn More](https://portfolio.katiegirl.net/techexperience/c-net-framework/)
+
+Web Applications [Learn More](https://portfolio.katiegirl.net/web-applications/)
+
+Cloud Azure [Learn More](https://portfolio.katiegirl.net/techexperience/cloud/)
 
 ### Resume
 

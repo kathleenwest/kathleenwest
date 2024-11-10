@@ -8,7 +8,7 @@ Hi there, I'm Kathleen West! [[My Website]](https://portfolio.katiegirl.net)
 
 - 🔭 I am a Full-Stack Developer (C# .Net & Angular TypeScript) Microsoft Certified
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m currently employed with an awesome job as a Senior Software Engineer!
+- 👯 I’m currently <s>employed with</s> seeking an awesome job as a Senior Software Engineer!
 - 🥅 2024 Goals: Pumping out 💪🏻 some demo projects for my portfolio. Maybe pursue a certification?  
 - ⚡ Fun fact: I collect Pound Puppies. Give them all to me.  
 

@@ -16,6 +16,10 @@ Hi there, I'm Kathleen West! [[My Website]](https://portfolio.katiegirl.net)
 
 <img src="https://www.katiegirl.net/images/social/poundpuppies.jpg" width="150" height="150">
 
+## 🤹‍♀️ Expertise Summary
+
+[👩‍💻 C# .Net Microsoft Tech Stack](https://portfolio.katiegirl.net/techexperience/c-net-framework/) | [🌐 Web Applications](https://portfolio.katiegirl.net/web-applications/) | [Cloud ☁️](https://portfolio.katiegirl.net/techexperience/cloud/) | [Data 🛢]()
+
 ## 🛠️ My Toolkit
 All the tech spaces I have worked and played with... and growing!
 
@@ -69,14 +73,6 @@ All the tech spaces I have worked and played with... and growing!
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-## 🤹‍♀️ Expertise Summary
-
-C# .Net Microsoft Tech Stack [Learn More](https://portfolio.katiegirl.net/techexperience/c-net-framework/)
-
-Web Applications [Learn More](https://portfolio.katiegirl.net/web-applications/)
-
-Cloud Azure [Learn More](https://portfolio.katiegirl.net/techexperience/cloud/)
 
 ## 📜 Resume
 

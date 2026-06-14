@@ -10,8 +10,9 @@ Hi there, I'm Kathleen West! [[My Website]](https://portfolio.katiegirl.net)
 - 🧠 What I build for fun: wacky and fun applications
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m currently employed with <s>seeking</s> an awesome job!
-- 🥅 2026 Goals: Pumping out 💪🏻 some demo projects for my portfolio. Maybe pursue a certification?  
-- ⚡ Fun fact: I collect Pound Puppies. Give them all to me.  
+- 🥅 2026 Goals: Pumping out 💪🏻 some demo projects for my portfolio. Maybe pursue a certification?
+- 🎥 I like to film and create awesome videos. See my [YouTube](https://www.youtube.com/@KathleenWestUSA)    
+- ⚡ Fun fact: I collect Pound Puppies. Give them all to me.
 
 <img src="https://www.katiegirl.net/images/social/poundpuppies.jpg" width="150" height="150">
 

@@ -88,6 +88,10 @@ I code with [Scrimba](https://scrimba.com/?via=u01b2oq) to practice and learn ne
 
 <a href="https://scrimba.com/?via=u01b2oq"><img width="640" height="95" alt="image" src="https://github.com/user-attachments/assets/f2c2e852-f467-4739-a704-22a3f55b3fc2" /></a>
 
+## 🤑 Sponsor
+
+For the [low price](https://github.com/sponsors/kathleenwest) of $1 USD ... 
+
 ## 💬 Connect with Me
 
 <img src="https://i1.wp.com/portfolio.katiegirl.net/wp-content/uploads/2019/02/linkedin.jpg?resize=150%2C150&ssl=1"><br> 

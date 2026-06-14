@@ -70,7 +70,6 @@ All the tech spaces I have worked and played with... and growing!
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-
 ## Expertise Summary
 
 C# .Net Microsoft Tech Stack [Learn More](https://portfolio.katiegirl.net/techexperience/c-net-framework/)
@@ -79,15 +78,15 @@ Web Applications [Learn More](https://portfolio.katiegirl.net/web-applications/)
 
 Cloud Azure [Learn More](https://portfolio.katiegirl.net/techexperience/cloud/)
 
-### Resume
+## Resume
 
 My resume is available online in PDF format from this site [here](https://portfolio.katiegirl.net/resume/).
 
-### Contact Me
-<img src="https://i2.wp.com/portfolio.katiegirl.net/wp-content/uploads/2017/11/mailontheway.jpg?resize=200%2C181"><br> 
-Contact me <a href="https://portfolio.katiegirl.net/2017/11/07/how-to-contact-me/">here</a>. 
-
-### Network
+## Connect with Me
 
 <img src="https://i1.wp.com/portfolio.katiegirl.net/wp-content/uploads/2019/02/linkedin.jpg?resize=150%2C150&ssl=1"><br> 
 Follow me <a href="https://www.linkedin.com/in/kathleenewest/">here</a>.
+
+## Contact Me
+<img src="https://i2.wp.com/portfolio.katiegirl.net/wp-content/uploads/2017/11/mailontheway.jpg?resize=200%2C181"><br> 
+Contact me <a href="https://portfolio.katiegirl.net/2017/11/07/how-to-contact-me/">here</a>. 

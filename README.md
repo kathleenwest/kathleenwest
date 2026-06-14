@@ -85,6 +85,7 @@ My resume is available online in PDF format from this site [here](https://portfo
 ## 🏫 Scrimbassador
 
 I code with [Scrimba](https://scrimba.com/?via=u01b2oq) to practice and learn new skills. 
+
 <a href="https://scrimba.com/?via=u01b2oq"><img width="640" height="95" alt="image" src="https://github.com/user-attachments/assets/f2c2e852-f467-4739-a704-22a3f55b3fc2" /></a>
 
 ## 💬 Connect with Me

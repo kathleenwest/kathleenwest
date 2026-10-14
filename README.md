@@ -78,6 +78,19 @@ All the tech spaces I have worked and played with... and growing!
 
 My resume is available online in PDF format from this site [here](https://portfolio.katiegirl.net/resume/).
 
+## Embracing Lifelong Learning
+
+I have a deep passion for continuous education, training, and upskilling, as I believe that lifelong learning is essential for personal and professional growth. To stay current, I actively seek out new opportunities to expand my knowledge and skillset, whether through formal classes, online training courses, or hands-on practice. I regularly enroll in webinars, workshops, and industry certifications to keep pace with the latest developments and trends. This commitment to continuous improvement not only enriches my abilities but also ensures that I remain a valuable asset in any role I undertake.
+
+Please see my [education and training portfolio](https://portfolio.katiegirl.net/experience/academic/).
+
+## Experience
+
+- [Employer Project Experience](https://portfolio.katiegirl.net/experience/employer-project-experience/)
+- [Technical Business Analysis and Management](https://portfolio.katiegirl.net/experience/business-analysis-and-management/)
+- [Interpersonal and Professional](https://portfolio.katiegirl.net/experience/interpersonalprofessional/)
+
+
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kathleenwest)](https://git.io/streak-stats)

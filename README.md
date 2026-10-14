@@ -9,8 +9,8 @@ Hi there, I'm Kathleen West! [[My Website]](https://portfolio.katiegirl.net)
 - 🔭 I am a Full-Stack Developer
 - 🧠 What I build for fun: 🤪 wacky and 🥳 fun applications
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m currently employed with <s>seeking</s> an awesome job!
-- 🥅 2026 Goals: Pumping out 💪🏻 some demo projects for my [Portfolio](https://portfolio.katiegirl.net/). Maybe pursue a certification?
+- 👯 I’m currently <s>employed with</s> seeking an awesome job!
+- 🥅 2026 Goals: Pumping out 💪🏻 some demo projects for my [Portfolio](https://portfolio.katiegirl.net/). Pursue additional certifications.
 - 🎥 I like to film and create awesome videos. See my [YouTube](https://www.youtube.com/@KathleenWestUSA)    
 - ⚡ Fun fact: I collect 🐶 Pound Puppies. Give them all to me.
 
